@@ -1,6 +1,7 @@
-# [katewillow.github.io/validation](https://katewillow.github.io/validation) 
+# RegExps
+[katewillow.github.io/regexps](https://katewillow.github.io/regexps) 
 
-v0.0.1
+v0.0.2
 
 ## О проекте 
 Проект по темам Git, «командная строка» и регулярные выражения.
